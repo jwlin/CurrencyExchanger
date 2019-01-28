@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">貨幣轉換器</string>
+    <string name="txt_help">幫助</string>
+    <string name="txt_ok">確定</string>
+    <string name="txt_currency_rate">匯率</string>
+    <string name="txt_empty_ntd">輸入為空白</string>
+    <string name="txt_input_amount">請輸入台幣數量</string>
+    <string name="currency_in_ntd">台幣數量</string>
+    <string name="currency_in_usd">美元</string>
+    <string name="currency_in_euro">歐元</string>
+    <string name="exchange">換算</string>
+</resources>
